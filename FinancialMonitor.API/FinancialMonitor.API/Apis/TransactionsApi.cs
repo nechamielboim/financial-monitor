@@ -37,19 +37,11 @@ public static class TransactionsApi
             ITransactionService service,
             ITransactionPublisher publisher) =>
         {
-            // יצירת Transaction מהבקשה
             var transaction = request.ToTransaction();
 
-            // שמירה במסד הנתונים
             var created = await service.AddAsync(transaction);
 
-            Console.WriteLine(
-                $"Publishing transaction: {created.TransactionId}");
-
-            // פרסום האירוע (כרגע באמצעות SignalR, בעתיד ניתן להחליף ל-Redis)
             await publisher.PublishAsync(created);
-
-            Console.WriteLine("Transaction published");
 
             return Results.Created(
                 $"/transactions/{created.TransactionId}",
