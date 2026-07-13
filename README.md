@@ -67,6 +67,29 @@ Live Dashboard
 
 ---
 
+## API Endpoints
+
+### POST /transactions
+
+Receives a new transaction and stores it in the database.
+After successful processing, the transaction is broadcast to connected clients using SignalR.
+
+### GET /transactions
+
+Returns all stored transactions.
+
+### GET /transactions/{id}
+
+Returns a specific transaction by its identifier.
+
+## Thread Safety and Data Consistency
+
+The application uses ASP.NET Core scoped lifetime management for Entity Framework Core.
+
+Each HTTP request receives a separate DbContext instance, preventing unsafe concurrent access to the same database context.
+
+Transaction operations are executed through Entity Framework Core, which manages database write operations using transactions. SQLite locking mechanisms help maintain data consistency during concurrent database access.
+
 ## Implemented Features
 
 * Transaction ingestion API
@@ -78,6 +101,31 @@ Live Dashboard
 * Status indicators (Pending, Completed, Failed)
 * Animated appearance of new transactions
 * Responsive UI
+* Docker Compose configuration for running the application and Redis together
+* Automated unit tests covering transaction processing, storage logic, and concurrency handling
+  
+---
+
+## Frontend Performance
+
+The dashboard is designed to remain responsive while receiving real-time SignalR updates.
+React state management allows the UI to handle incoming transactions without blocking the browser.
+
+---
+
+## Testing
+
+The project includes automated unit tests using xUnit.
+
+The tests cover:
+
+- Transaction creation and processing
+- Correct transaction data persistence
+- Retrieving transactions from storage
+- Handling missing transactions
+- Concurrent transaction insertion scenarios
+
+The concurrency test validates that the system can handle multiple simultaneous transaction requests without data loss.
 
 ---
 
@@ -94,9 +142,19 @@ The application is designed to safely handle multiple concurrent client connecti
 
 ## Distributed Architecture
 
-When running multiple backend instances (Pods), clients connected to different instances would not automatically receive the same SignalR events.
+The project includes Redis based SignalR backplane support.
 
-A production-ready solution is to use **Redis SignalR** (or Redis Pub/Sub), allowing all application instances to synchronize real-time messages across the cluster.
+When deployed with multiple backend replicas, Redis Pub/Sub allows all instances to broadcast transaction events to all connected clients.
+
+Architecture:
+
+Backend Pod A
+      |
+      |
+   Redis Backplane
+      |
+      |
+Backend Pod B
 
 ---
 
@@ -118,6 +176,20 @@ npm install
 npm run dev
 ```
 
+## Running with Docker Compose
+
+The entire application can also be started using Docker Compose.
+
+```bash
+docker compose up --build
+```
+
+This starts:
+
+- Financial Monitor API
+- Redis
+- Persistent SQLite volume
+
 The frontend runs on:
 
 ```
@@ -127,11 +199,29 @@ http://localhost:5173
 The backend runs on:
 
 ```
-https://localhost:7230
+https://localhost:5177
 ```
 
 ---
 
+## Docker
+
+The backend uses a multi-stage Docker build:
+- SDK image for compilation
+- ASP.NET runtime image for production execution
+
+This reduces the final image size and improves deployment efficiency.
+
+## Kubernetes Deployment
+
+The project includes Kubernetes manifests:
+
+`deployment.yaml`
+- Defines backend replicas and container configuration.
+
+`service.yaml`
+- Exposes the backend service inside the cluster.
+  
 ## Project Structure
 
 ```
@@ -146,16 +236,20 @@ FinancialMonitor
 │   ├── Messaging
 │   ├── Models
 │   └── Services
-│
+
+├── FinancialMonitor.Tests
+│   └── TransactionServiceTests.cs
+
 ├── financial-monitor-client
 │   ├── pages
 │   ├── services
 │   ├── types
-│   └── components
 │
 ├── Dockerfile
-├── deployment.yaml
-├── service.yaml
+├── docker-compose.yml
+├── k8s
+│   ├── deployment.yaml
+│   └── service.yaml
 └── README.md
 ```
 
