@@ -1,0 +1,27 @@
+version: "3.8"
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: financial-monitor-api
+    ports:
+      - "7230:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Data Source=/app/data/financialmonitor.db
+      - Redis__ConnectionString=redis:6379
+    depends_on:
+      - redis
+    volumes:
+      - sqlite-data:/app/data
+
+  redis:
+    image: redis:7-alpine
+    container_name: financial-monitor-redis
+    ports:
+      - "6379:6379"
+
+volumes:
+  sqlite-data:

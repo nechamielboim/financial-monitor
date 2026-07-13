@@ -1,0 +1,433 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|Solution Items{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|Solution Items{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|Solution Items{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|Solution Items{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773CA6DC-98EC-46E3-8D53-C203FE50EDE8}|NewFolder1{773CA6DC-98EC-46E3-8D53-C203FE50EDE8}|C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\deployment.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{773CA6DC-98EC-46E3-8D53-C203FE50EDE8}|NewFolder1{773CA6DC-98EC-46E3-8D53-C203FE50EDE8}|solutionrelative:deployment.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773CA6DC-98EC-46E3-8D53-C203FE50EDE8}|NewFolder1{773CA6DC-98EC-46E3-8D53-C203FE50EDE8}|C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\service.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{773CA6DC-98EC-46E3-8D53-C203FE50EDE8}|NewFolder1{773CA6DC-98EC-46E3-8D53-C203FE50EDE8}|solutionrelative:service.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|Solution Items{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|Solution Items{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0660DE-A992-4B44-AE4A-AD321B62D23D}|FinancialMonitor.API\\FinancialMonitor.API.csproj|c:\\users\\user\\desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\financialmonitor.api\\financialmonitor.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0660DE-A992-4B44-AE4A-AD321B62D23D}|FinancialMonitor.API\\FinancialMonitor.API.csproj|solutionrelative:financialmonitor.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0660DE-A992-4B44-AE4A-AD321B62D23D}|FinancialMonitor.API\\FinancialMonitor.API.csproj|c:\\users\\user\\desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\financialmonitor.api\\financialmonitor.api\\messaging\\redistransactionpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0660DE-A992-4B44-AE4A-AD321B62D23D}|FinancialMonitor.API\\FinancialMonitor.API.csproj|solutionrelative:financialmonitor.api\\messaging\\redistransactionpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0660DE-A992-4B44-AE4A-AD321B62D23D}|FinancialMonitor.API\\FinancialMonitor.API.csproj|c:\\users\\user\\desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\financialmonitor.api\\financialmonitor.api\\messaging\\localtransactionpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0660DE-A992-4B44-AE4A-AD321B62D23D}|FinancialMonitor.API\\FinancialMonitor.API.csproj|solutionrelative:financialmonitor.api\\messaging\\localtransactionpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0660DE-A992-4B44-AE4A-AD321B62D23D}|FinancialMonitor.API\\FinancialMonitor.API.csproj|c:\\users\\user\\desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\financialmonitor.api\\financialmonitor.api\\interfaces\\itransactionpublisher .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0660DE-A992-4B44-AE4A-AD321B62D23D}|FinancialMonitor.API\\FinancialMonitor.API.csproj|solutionrelative:financialmonitor.api\\interfaces\\itransactionpublisher .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0660DE-A992-4B44-AE4A-AD321B62D23D}|FinancialMonitor.API\\FinancialMonitor.API.csproj|c:\\users\\user\\desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\financialmonitor.api\\financialmonitor.api\\interfaces\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0660DE-A992-4B44-AE4A-AD321B62D23D}|FinancialMonitor.API\\FinancialMonitor.API.csproj|solutionrelative:financialmonitor.api\\interfaces\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0660DE-A992-4B44-AE4A-AD321B62D23D}|FinancialMonitor.API\\FinancialMonitor.API.csproj|c:\\users\\user\\desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\financialmonitor.api\\financialmonitor.api\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0660DE-A992-4B44-AE4A-AD321B62D23D}|FinancialMonitor.API\\FinancialMonitor.API.csproj|solutionrelative:financialmonitor.api\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A93B1A-B1C6-4847-ACE5-2E20C6B7B9EA}|FinancialMonitor.Tests\\FinancialMonitor.Tests.csproj|c:\\users\\user\\desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\financialmonitor.api\\financialmonitor.tests\\transactionservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A93B1A-B1C6-4847-ACE5-2E20C6B7B9EA}|FinancialMonitor.Tests\\FinancialMonitor.Tests.csproj|solutionrelative:financialmonitor.tests\\transactionservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0660DE-A992-4B44-AE4A-AD321B62D23D}|FinancialMonitor.API\\FinancialMonitor.API.csproj|c:\\users\\user\\desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\financialmonitor.api\\financialmonitor.api\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0660DE-A992-4B44-AE4A-AD321B62D23D}|FinancialMonitor.API\\FinancialMonitor.API.csproj|solutionrelative:financialmonitor.api\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0660DE-A992-4B44-AE4A-AD321B62D23D}|FinancialMonitor.API\\FinancialMonitor.API.csproj|c:\\users\\user\\desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\financialmonitor.api\\financialmonitor.api\\models\\transactionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0660DE-A992-4B44-AE4A-AD321B62D23D}|FinancialMonitor.API\\FinancialMonitor.API.csproj|solutionrelative:financialmonitor.api\\models\\transactionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0660DE-A992-4B44-AE4A-AD321B62D23D}|FinancialMonitor.API\\FinancialMonitor.API.csproj|c:\\users\\user\\desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\financialmonitor.api\\financialmonitor.api\\hubs\\transactionhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0660DE-A992-4B44-AE4A-AD321B62D23D}|FinancialMonitor.API\\FinancialMonitor.API.csproj|solutionrelative:financialmonitor.api\\hubs\\transactionhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0660DE-A992-4B44-AE4A-AD321B62D23D}|FinancialMonitor.API\\FinancialMonitor.API.csproj|c:\\users\\user\\desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\financialmonitor.api\\financialmonitor.api\\apis\\transactionsapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0660DE-A992-4B44-AE4A-AD321B62D23D}|FinancialMonitor.API\\FinancialMonitor.API.csproj|solutionrelative:financialmonitor.api\\apis\\transactionsapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0660DE-A992-4B44-AE4A-AD321B62D23D}|FinancialMonitor.API\\FinancialMonitor.API.csproj|c:\\users\\user\\desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\financialmonitor.api\\financialmonitor.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0660DE-A992-4B44-AE4A-AD321B62D23D}|FinancialMonitor.API\\FinancialMonitor.API.csproj|solutionrelative:financialmonitor.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0660DE-A992-4B44-AE4A-AD321B62D23D}|FinancialMonitor.API\\FinancialMonitor.API.csproj|c:\\users\\user\\desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\financialmonitor.api\\financialmonitor.api\\financialmonitor.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AA0660DE-A992-4B44-AE4A-AD321B62D23D}|FinancialMonitor.API\\FinancialMonitor.API.csproj|solutionrelative:financialmonitor.api\\financialmonitor.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0660DE-A992-4B44-AE4A-AD321B62D23D}|FinancialMonitor.API\\FinancialMonitor.API.csproj|c:\\users\\user\\desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\financialmonitor.api\\financialmonitor.api\\dtos\\createtransactionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0660DE-A992-4B44-AE4A-AD321B62D23D}|FinancialMonitor.API\\FinancialMonitor.API.csproj|solutionrelative:financialmonitor.api\\dtos\\createtransactionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A93B1A-B1C6-4847-ACE5-2E20C6B7B9EA}|FinancialMonitor.Tests\\FinancialMonitor.Tests.csproj|c:\\users\\user\\desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\financialmonitor.api\\financialmonitor.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A93B1A-B1C6-4847-ACE5-2E20C6B7B9EA}|FinancialMonitor.Tests\\FinancialMonitor.Tests.csproj|solutionrelative:financialmonitor.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0660DE-A992-4B44-AE4A-AD321B62D23D}|FinancialMonitor.API\\FinancialMonitor.API.csproj|c:\\users\\user\\desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\financialmonitor.api\\financialmonitor.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA0660DE-A992-4B44-AE4A-AD321B62D23D}|FinancialMonitor.API\\FinancialMonitor.API.csproj|solutionrelative:financialmonitor.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0660DE-A992-4B44-AE4A-AD321B62D23D}|FinancialMonitor.API\\FinancialMonitor.API.csproj|c:\\users\\user\\desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\financialmonitor.api\\financialmonitor.api\\migrations\\20260709195448_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0660DE-A992-4B44-AE4A-AD321B62D23D}|FinancialMonitor.API\\FinancialMonitor.API.csproj|solutionrelative:financialmonitor.api\\migrations\\20260709195448_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0660DE-A992-4B44-AE4A-AD321B62D23D}|FinancialMonitor.API\\FinancialMonitor.API.csproj|c:\\users\\user\\desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\financialmonitor.api\\financialmonitor.api\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0660DE-A992-4B44-AE4A-AD321B62D23D}|FinancialMonitor.API\\FinancialMonitor.API.csproj|solutionrelative:financialmonitor.api\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0660DE-A992-4B44-AE4A-AD321B62D23D}|FinancialMonitor.API\\FinancialMonitor.API.csproj|c:\\users\\user\\desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\financialmonitor.api\\financialmonitor.api\\migrations\\20260710133932_updatetransactionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0660DE-A992-4B44-AE4A-AD321B62D23D}|FinancialMonitor.API\\FinancialMonitor.API.csproj|solutionrelative:financialmonitor.api\\migrations\\20260710133932_updatetransactionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 388,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-13T07:36:17.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-07-13T07:35:40.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\Dockerfile*",
+              "RelativeToolTip": "Dockerfile*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-13T07:15:35.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RedisTransactionPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\FinancialMonitor.API\\Messaging\\RedisTransactionPublisher.cs",
+              "RelativeDocumentMoniker": "FinancialMonitor.API\\Messaging\\RedisTransactionPublisher.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\FinancialMonitor.API\\Messaging\\RedisTransactionPublisher.cs",
+              "RelativeToolTip": "FinancialMonitor.API\\Messaging\\RedisTransactionPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T18:36:39.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LocalTransactionPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\FinancialMonitor.API\\Messaging\\LocalTransactionPublisher.cs",
+              "RelativeDocumentMoniker": "FinancialMonitor.API\\Messaging\\LocalTransactionPublisher.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\FinancialMonitor.API\\Messaging\\LocalTransactionPublisher.cs",
+              "RelativeToolTip": "FinancialMonitor.API\\Messaging\\LocalTransactionPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T16:09:53.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITransactionPublisher .cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\FinancialMonitor.API\\Interfaces\\ITransactionPublisher .cs",
+              "RelativeDocumentMoniker": "FinancialMonitor.API\\Interfaces\\ITransactionPublisher .cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\FinancialMonitor.API\\Interfaces\\ITransactionPublisher .cs",
+              "RelativeToolTip": "FinancialMonitor.API\\Interfaces\\ITransactionPublisher .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T16:08:37.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20260710133932_UpdateTransactionModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\FinancialMonitor.API\\Migrations\\20260710133932_UpdateTransactionModel.cs",
+              "RelativeDocumentMoniker": "FinancialMonitor.API\\Migrations\\20260710133932_UpdateTransactionModel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\FinancialMonitor.API\\Migrations\\20260710133932_UpdateTransactionModel.cs",
+              "RelativeToolTip": "FinancialMonitor.API\\Migrations\\20260710133932_UpdateTransactionModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T13:39:32.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TransactionServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\FinancialMonitor.Tests\\TransactionServiceTests.cs",
+              "RelativeDocumentMoniker": "FinancialMonitor.Tests\\TransactionServiceTests.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\FinancialMonitor.Tests\\TransactionServiceTests.cs",
+              "RelativeToolTip": "FinancialMonitor.Tests\\TransactionServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T13:08:09.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\FinancialMonitor.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "FinancialMonitor.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\FinancialMonitor.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "FinancialMonitor.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T12:57:11.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\FinancialMonitor.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FinancialMonitor.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\FinancialMonitor.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FinancialMonitor.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-10T07:47:49.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TransactionHub.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\FinancialMonitor.API\\Hubs\\TransactionHub.cs",
+              "RelativeDocumentMoniker": "FinancialMonitor.API\\Hubs\\TransactionHub.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\FinancialMonitor.API\\Hubs\\TransactionHub.cs",
+              "RelativeToolTip": "FinancialMonitor.API\\Hubs\\TransactionHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T20:33:18.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateTransactionRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\FinancialMonitor.API\\DTOs\\CreateTransactionRequest.cs",
+              "RelativeDocumentMoniker": "FinancialMonitor.API\\DTOs\\CreateTransactionRequest.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\FinancialMonitor.API\\DTOs\\CreateTransactionRequest.cs",
+              "RelativeToolTip": "FinancialMonitor.API\\DTOs\\CreateTransactionRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T20:18:10.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TransactionsApi.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\FinancialMonitor.API\\Apis\\TransactionsApi.cs",
+              "RelativeDocumentMoniker": "FinancialMonitor.API\\Apis\\TransactionsApi.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\FinancialMonitor.API\\Apis\\TransactionsApi.cs",
+              "RelativeToolTip": "FinancialMonitor.API\\Apis\\TransactionsApi.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T20:15:15.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\FinancialMonitor.API\\Services\\TransactionService.cs",
+              "RelativeDocumentMoniker": "FinancialMonitor.API\\Services\\TransactionService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\FinancialMonitor.API\\Services\\TransactionService.cs",
+              "RelativeToolTip": "FinancialMonitor.API\\Services\\TransactionService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T20:11:57.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\FinancialMonitor.API\\Interfaces\\ITransactionService.cs",
+              "RelativeDocumentMoniker": "FinancialMonitor.API\\Interfaces\\ITransactionService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\FinancialMonitor.API\\Interfaces\\ITransactionService.cs",
+              "RelativeToolTip": "FinancialMonitor.API\\Interfaces\\ITransactionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T20:10:49.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\FinancialMonitor.API\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "FinancialMonitor.API\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\FinancialMonitor.API\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "FinancialMonitor.API\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T19:56:13.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20260709195448_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\FinancialMonitor.API\\Migrations\\20260709195448_InitialCreate.cs",
+              "RelativeDocumentMoniker": "FinancialMonitor.API\\Migrations\\20260709195448_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\FinancialMonitor.API\\Migrations\\20260709195448_InitialCreate.cs",
+              "RelativeToolTip": "FinancialMonitor.API\\Migrations\\20260709195448_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T19:54:48.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\FinancialMonitor.API\\Program.cs",
+              "RelativeDocumentMoniker": "FinancialMonitor.API\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\FinancialMonitor.API\\Program.cs",
+              "RelativeToolTip": "FinancialMonitor.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T19:43:44.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\FinancialMonitor.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FinancialMonitor.API\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\FinancialMonitor.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "FinancialMonitor.API\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T19:35:53.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TransactionStatus.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\FinancialMonitor.API\\Models\\TransactionStatus.cs",
+              "RelativeDocumentMoniker": "FinancialMonitor.API\\Models\\TransactionStatus.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\FinancialMonitor.API\\Models\\TransactionStatus.cs",
+              "RelativeToolTip": "FinancialMonitor.API\\Models\\TransactionStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T19:29:49.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\FinancialMonitor.API\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "FinancialMonitor.API\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\FinancialMonitor.API\\Models\\Transaction.cs",
+              "RelativeToolTip": "FinancialMonitor.API\\Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T19:27:23.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FinancialMonitor.API.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\FinancialMonitor.API\\FinancialMonitor.API.csproj",
+              "RelativeDocumentMoniker": "FinancialMonitor.API\\FinancialMonitor.API.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\FinancialMonitor.API\\FinancialMonitor.API.csproj",
+              "RelativeToolTip": "FinancialMonitor.API\\FinancialMonitor.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-09T19:19:19.646Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 12,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "service.yaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\service.yaml",
+              "RelativeDocumentMoniker": "service.yaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\service.yaml",
+              "RelativeToolTip": "service.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-07-13T07:25:25.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "deployment.yaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\deployment.yaml",
+              "RelativeDocumentMoniker": "deployment.yaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05E0\u05D7\u05DE\u05D9 \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\FinancialMonitor.API\\deployment.yaml",
+              "RelativeToolTip": "deployment.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-07-13T07:24:33.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

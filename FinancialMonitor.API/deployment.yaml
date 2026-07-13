@@ -1,0 +1,32 @@
+apiVersion: apps/v1
+kind: Deployment
+
+metadata:
+  name: financial-monitor-api
+  labels:
+    app: financial-monitor-api
+
+spec:
+  replicas: 3
+
+  selector:
+    matchLabels:
+      app: financial-monitor-api
+
+  template:
+    metadata:
+      labels:
+        app: financial-monitor-api
+
+    spec:
+      containers:
+        - name: financial-monitor-api
+          image: financial-monitor-api:latest
+          imagePullPolicy: IfNotPresent
+
+          ports:
+            - containerPort: 8080
+
+          env:
+            - name: ASPNETCORE_ENVIRONMENT
+              value: Production
